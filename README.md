@@ -47,11 +47,6 @@ Run the notebook:
 ```bash
 jupyter notebook regressLinMulti.ipynb
 ```
-
-### 🎓 Academic Purpose
-
-This notebook was developed as part of a **Calculus course assignment**, applying theoretical concepts of **Linear Regression** to a real dataset.
-
 ---
 
 ## 🇧🇷 Português Brasileiro
@@ -99,9 +94,5 @@ Execute o notebook:
 ```bash
 jupyter notebook regressLinMulti.ipynb
 ```
-
-### 🎓 Propósito Acadêmico
-
-Este notebook foi desenvolvido como parte de um **trabalho da disciplina de Cálculo**, aplicando conceitos teóricos de **Regressão Linear** a um dataset real.
 
 ---
