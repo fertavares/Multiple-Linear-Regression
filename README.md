@@ -39,7 +39,7 @@ cd Multiple-Linear-Regression
 Install dependencies:
 
 ```bash
-pip install pandas==2.0.0 numpy==1.24.0 matplotlib==3.7.0 seaborn==0.12.3 scikit-learn==1.2.0
+pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 Run the notebook:
@@ -87,7 +87,7 @@ cd Multiple-Linear-Regression
 Instale as dependências:
 
 ```bash
-pip install pandas==2.0.0 numpy==1.24.0 matplotlib==3.7.0 seaborn==0.12.3 scikit-learn==1.2.0
+pip install pandas numpy matplotlib seaborn scikit-learn
 ```
 
 Execute o notebook:
