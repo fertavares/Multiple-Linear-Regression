@@ -32,14 +32,14 @@ The notebook walks through the process of building and evaluating a regression m
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/fertavares/Multiple-Linear-Regression.git
+cd Multiple-Linear-Regression
 ```
 
 Install dependencies:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+pip install pandas==2.0.0 numpy==1.24.0 matplotlib==3.7.0 seaborn==0.12.3 scikit-learn==1.2.0
 ```
 
 Run the notebook:
@@ -47,6 +47,7 @@ Run the notebook:
 ```bash
 jupyter notebook regressLinMulti.ipynb
 ```
+
 ---
 
 ## 🇧🇷 Português Brasileiro
@@ -79,14 +80,14 @@ O notebook apresenta passo a passo o processo de construção e avaliação de u
 Clone o repositório:
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/fertavares/Multiple-Linear-Regression.git
+cd Multiple-Linear-Regression
 ```
 
 Instale as dependências:
 
 ```bash
-pip install pandas numpy matplotlib seaborn scikit-learn
+pip install pandas==2.0.0 numpy==1.24.0 matplotlib==3.7.0 seaborn==0.12.3 scikit-learn==1.2.0
 ```
 
 Execute o notebook:
