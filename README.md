@@ -2,7 +2,7 @@
 
 # 📊 Multiple Linear Regression with Gradient Descent – Energy Efficiency Dataset
 
-## 🇺🇸 English Version
+## 🇺🇸 English
 
 This repository contains a Jupyter Notebook that demonstrates the application of **Multiple Linear Regression (MLR)** using Python and Scikit-learn.
 The project explores the **Energy Efficiency dataset**, focusing on predicting the **Heating Load** variable based on building characteristics.
